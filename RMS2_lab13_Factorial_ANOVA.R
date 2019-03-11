@@ -42,7 +42,7 @@ Anova(gogglesANOVA, type="III")
 weights <- read.table(file = "C:/Users/Esther/Downloads/growth.txt", header = T,
                       sep = "\t")
 attach(weights)
-c(diet, supplement
+c(diet, supplement)
 list(diet, supplement)
 length(list(diet, supplement)[[2]])
 class(list(diet, supplement)[[2]])
